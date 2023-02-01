@@ -57,9 +57,9 @@ echo "<script>window.location.href='booking-history.php'</script>";
 	<section class="page-top-section set-bg" data-setbg="img/page-top-bg.jpg">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-7 m-auto text-white">
-					<h2>Home</h2>
-					<p>Physical Activity Or Can Improve Your Health</p>
+				<div class=" m-auto text-white">
+					<h2>Black Sheep Gym</h2>
+					<p>The body achieves what the mind believes..</p>
 				</div>
 			</div>
 		</div>
@@ -72,8 +72,8 @@ echo "<script>window.location.href='booking-history.php'</script>";
 		<div class="container">
 			<div class="section-title text-center">
 				<img src="img/icons/logo-icon.png" alt="">
-				<h2>Pricing plans</h2>
-				<p>Practice Yoga to perfect physical beauty, take care of your soul and enjoy life more fully!</p>
+				<h2>Choose Your Plan</h2>
+				<p> “Be patient and tough; someday this pain will be useful to you.” </p>
 			</div>
 			<div class="row">
 				        <?php 

@@ -17,14 +17,12 @@
             </div>   
          </div>
          <div class="left">
-            <img  class="nuts" src="img/nuts.jpeg" alt="img" />
+            <img  class="nuts" src="img/nuts.jpg" alt="img" />
         </div>
         <div class="right">
                <p class="nuts-details">
-               Eating nuts as part of a healthy diet may be good for the heart. Nuts contain unsaturated fatty acids and other nutrients. 
-               And they're a great snack food — inexpensive, easy to store and easy to pack when you're on the go.<br>
-               One drawback to nuts is that some may be high in calories, so it's important to limit portions. But choosing nuts instead 
-               of a less healthy snack may just help you stick to a heart-healthy diet.
+               They’re tasty, convenient, and can be enjoyed on all kinds of diets — from keto to vegan.Despite being high in fat, 
+               they have a number of impressive health and weight benefits.
                </p>
         </div>
         <div class="left-2">
@@ -40,27 +38,22 @@
             <img class="quinoa" src="img/quinoa.jpeg" alt="img"/>
         </div>
         <div class="left-3">
-              <img class="brocolli" src="img/brocolli.jpg" alt="img"/>
+              <img class="brocolli" src="img/beetroot.jpg" alt="img"/>
         </div>
         <div class="right-3">
                <p class="brocolli-details">
-               Broccoli originated from the eastern Mediterranean. Then, it became popular in Italy. Although it has been a native of Italy 
-               for more than 2000 years, it grows worldwide.<br>
-               Broccoli is a winter-specific vegetable and is generally unavailable in the summer. However, it grows well in a temperature ranging 
-               between 18°C to 23°C.<br>
-               Broccoli is a source of essential nutrients vitamin A, C & riboflavin. It is also high in iron and calcium.
+               Beets pull toxins from the body and are an excellent source of many nutrients like folate, vitamin a, k, manganese, copper, and potassium, among others.
+                They are high in nitrates which help regulate blood flow and may assist patients with cardiovascular diseases. Beets also have pigments called betalain,
+             responsible for their vibrant color, which provide anti-inflammatory benefits.
                </p>
         </div>
         <div class="left-4">
             <p class="peas-details">
-            Pea or green pea is one of the major food legumes in the world. It ranks fourth in legume productions worldwide after soybean, peanut and 
-            dry bean. Scientifically known as Pisum sativum, it belongs to the Fabaceae family. Some people also call green peas as garden pea, sweet 
-            pea, honey pea, or sugar pea<br>
-            Green peas are an important part of our diet due to the presence of carbohydrates, proteins, vitamins, minerals, and other nutrients
+            Carrots are a particularly good source of beta carotene, fiber, vitamin K1, potassium, and antioxidants ( 1 ).<br> They also have a number of health benefits. They're a weight-loss-friendly food and have been linked to lower cholesterol levels and improved eye health
             <p> 
         </div>
         <div class="right-4">
-             <img class="peas" src="img/peas.jpg" alt="img">
+             <img class="peas" src="img/carrot.jpg" alt="img">
         </div>
 
     </div>

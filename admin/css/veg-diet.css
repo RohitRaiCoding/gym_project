@@ -1,6 +1,7 @@
 .nav{
     height:80px;
-    box-shadow: 3px 5px 10px;
+    box-shadow: 0px 0px 5px;
+    font-style: italic;
 }
 .nav h1{
     float:right;
@@ -18,7 +19,7 @@
     width:34%;
     height:200px;
     border-radius: 4px;
-    box-shadow: 3px 5px 10px;
+    box-shadow: 2px 2px 4px;
     margin:10px
 }
 .right{
@@ -26,7 +27,7 @@
     width:63%;
     height:200px;
     border-radius: 4px;
-    box-shadow: 3px 5px 10px;
+    box-shadow: 2px 2px 4px;
     margin:10px;
 }
 .nuts{
@@ -37,13 +38,14 @@
    margin:10px;
    font-size: 20px;
    justify-items: auto;
+   font-family: monospace;
 }
 .left-2{
     float: left;
     width:63%;
     height:200px;
     border-radius: 4px;
-    box-shadow: 3px 5px 10px;
+    box-shadow: 2px 2px 4px;
     margin:10px
 }
 .right-2{
@@ -51,7 +53,7 @@
     width:34%;
     height:200px;
     border-radius: 4px;
-    box-shadow: 3px 5px 10px;
+    box-shadow: 2px 2px 4px;
     margin:10px;
 }
 .quinoa{
@@ -62,13 +64,14 @@
     margin:10px;
     font-size: 20px;
     justify-items: auto;
+    font-family: monospace;
 }
 .left-3{
     float: left;
     width:34%;
     height:200px;
     border-radius: 4px;
-    box-shadow: 3px 5px 10px;
+    box-shadow: 2px 2px 4px;
     margin:10px
 }
 .right-3{
@@ -76,7 +79,7 @@
     width:63%;
     height:200px;
     border-radius: 4px;
-    box-shadow: 3px 5px 10px;
+    box-shadow: 2px 2px 4px;
     margin:10px;
 }
 .brocolli{
@@ -87,13 +90,14 @@
     margin:10px;
     font-size: 20px;
     justify-content: auto;
+    font-family: monospace;
 }
 .left-4{
     float: left;
     width:63%;
     height:200px;
     border-radius: 4px;
-    box-shadow: 3px 5px 10px;
+    box-shadow: 2px 2px 4px;
     margin:10px
 }
 .right-4{
@@ -101,7 +105,7 @@
     width:34%;
     height:200px;
     border-radius: 4px;
-    box-shadow: 3px 5px 10px;
+    box-shadow: 2px 2px 4px;
     margin:10px;
 }
 .peas{
@@ -112,4 +116,5 @@
     margin:10px;
     font-size: 20px;
     justify-content: auto;
+    font-family: monospace;
 }

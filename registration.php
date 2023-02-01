@@ -131,6 +131,7 @@ $error ="Registration Not successfully";
 					<?php if($error){?><div class="errorWrap"><strong>ERROR</strong>:<?php echo htmlentities($error); ?> </div><?php } 
                 else if($succmsg){?><div class="succWrap"><strong>SUCCESS</strong>:<?php echo htmlentities($succmsg); ?> </div><?php }?><br><br>
 					<form class="singup-form contact-form" method="post">
+					<center><h3 style="margin-bottom: 30px">Registration</h3></center>
 						<div class="row">
 							<div class="col-md-6">
 								<input type="text" name="fname" id="fname" placeholder="First Name" autocomplete="off" value="<?php echo $fname;?>" required>

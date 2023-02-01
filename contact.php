@@ -73,9 +73,9 @@ echo "<script>window.location.href='booking-history.php'</script>";
 			<div class="row">
 
 				<div class="col-lg-12 col-sm-6">
-<p><strong>Email:</strong> info@yourdomain.com</p>
-<p><strong>Contact No:</strong> 1234567890, 1122334455</p>
-<p><strong>Address:</strong> Test Address</p>
+<p><strong>Email:</strong> rohitraiblacksheepgym@gmail.com</p>
+<p><strong>Contact No:</strong> 9919763434, 3434761999</p>
+<p><strong>Address:</strong> Near Garish Hotel New Delhi</p>
 				</div>
 			</div>
 		</div>

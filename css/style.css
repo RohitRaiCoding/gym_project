@@ -204,6 +204,7 @@ ol {
 	-o-transition: all 0.4s;
 	transition: all 0.4s;
 	z-index: 1;
+	width: max-content;
 }
 
 .site-btn.sb-gradient::after {
@@ -2733,7 +2734,7 @@ only screen and (min-width: 576px) and (max-width: 767px),
 }
 
 .page-top-section h2 {
-	font-size: 45px;
+	font-size: 85px;
 	text-transform: uppercase;
 	margin-bottom: 20px;
 }
@@ -4313,5 +4314,17 @@ only screen and (min-width: 576px) and (max-width: 767px),
 }
 
 .contact-form {
-	padding-top: 10px;
+	width: 95%;
+	margin: auto;
+	box-shadow: 3px 3px 10px rgb(0 0 0 / 20%);
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.pricing-item.entermediate {
+    width: 450px;
+}
+
+.set-bg{
+	background-position: center;
 }

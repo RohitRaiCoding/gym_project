@@ -57,8 +57,8 @@ echo "<script>window.location.href='booking-history.php'</script>";
 	<section class="page-top-section set-bg" data-setbg="img/page-top-bg.jpg">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-7 m-auto text-white">
-					<h2>About GYM Management System</h2>
+				<div class=" m-auto text-white">
+					<h2>It's Better To Know Us</h2>
 				</div>
 			</div>
 		</div>
@@ -76,7 +76,7 @@ echo "<script>window.location.href='booking-history.php'</script>";
 			<div class="row">
 
 				<div class="col-lg-12 col-sm-6">
-			<p>Hola amigos! We are a bunch of curious and intellectual professionals who out of boredom from the monotonous routine, established Brand Beavers in Mumbai to emerge as problem solvers. Our team of entrepreneurs, thinkers, strategists, designers, and technologists will help you to emerge as an effective and disruptive brand all over the globe. Our brainstorming and amicable individuals go beyond their comfort zone to satisfy the customer’s requirements.</p>
+			<p>Hello Friends Welcome to Black Sheep GYM portal. Instead of being just another gym equipment retailer, our founders wanted to be the best in the industry and set their minds to doing so! Over the last two decades Gym and Fitness has grown into one of India’s largest online fitness equipment retailers, helping thousands of customers live longer, happier and healthier lives.</p>
 				</div>
 			</div>
 		</div>
